@@ -1,0 +1,172 @@
+body {
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    padding: 35px 26px 36px 1291px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: #732DAA;
+    justify-content: flex-end;
+    align-items: center;
+    display: inline-flex
+}
+
+footer {
+    width: 100%;
+    height: 223px;
+    left: 0;
+    top: 801px;
+    position: absolute;
+    background: #732DAA
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background: #EFEFEF;
+}
+
+.user-info {
+    background-color: #041A37;
+}
+
+.username {
+    width: 73px;
+    height: 32px;
+    text-align: center;
+    color: white;
+    font-size: 1.5vw;
+    font-family: 'Righteous', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.btn-user-info {
+    width: 50px;
+    height: 50px;
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: inherit;
+}
+
+.card-1 {
+    width: 318px;
+    height: 241px;
+    left: 561px;
+    top: 191px;
+    position: absolute;
+    background: #1E1E1E;
+    border-radius: 20px
+}
+
+.card-2 {
+    width: 318px;
+    height: 241px;
+    left: 547px;
+    top: 193px;
+    position: absolute;
+    transform: rotate(-3.71deg);
+    transform-origin: 0 0;
+    background: #CEC94B;
+    border-radius: 20px
+}
+
+.card-3 {
+    width: 318px;
+    height: 241px;
+    left: 530px;
+    top: 195px;
+    position: absolute;
+    transform: rotate(-8.09deg);
+    transform-origin: 0 0;
+    background: #732DAA;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 1px black solid
+}
+
+.btn-new-card {
+    width: 318px;
+    height: 67px;
+    left: 561px;
+    top: 512px;
+    position: absolute;
+    background: #732DAA;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 1px black solid;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-family: 'Righteous', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+    cursor: pointer;
+}
+
+.btn-view-cards {
+    width: 318px;
+    height: 67px;
+    left: 561px;
+    top: 625px;
+    position: absolute;
+    background: #732DAA;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 1px black solid;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-family: 'Righteous', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.app-name {
+    width: 231px;
+    height: 113px;
+    left: 585px;
+    top: 252px;
+    position: absolute;
+    transform: rotate(-8.36deg);
+    transform-origin: 0 0;
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    font-family: 'Righteous', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.btn-footer {
+    width: 50px;
+    height: 50px;
+    left: 25px;
+    top: 148px;
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: inherit;
+    position: relative;
+}
+
+.txt-footer {
+    width: 206px;
+    height: 60px;
+    left: 1218px;
+    top: 140px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-family: 'Righteous', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+
